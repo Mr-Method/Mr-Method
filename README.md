@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="#StandWithUkraine" /></a>
+</p>
 
-<!--
-**Mr-Method/Mr-Method** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-Here are some ideas to get you started:
+# Github Stats & Most Used languages: 
+<a href="https://github.com/Mr-Method/github-readme-stats"><img alt="Mr-Method's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mr-Method&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sabbir-mahmud/github-readme-stats"><img alt="Mr-Method's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Method&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mr-Method">
+</a>
+<a href="https://github.com/Mr-Method?tab=followers"><img src="https://img.shields.io/github/followers/Mr-Method?label=Followers&style=social" alt="GitHub Badge"></a>

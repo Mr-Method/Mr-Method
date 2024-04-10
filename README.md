@@ -9,12 +9,6 @@
 <a href="https://github.com/Mr-Method/github-readme-stats"><img alt="Mr-Method's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Method&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-﻿<!-- welcome message -->
-# Connect with Me
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Method)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrMethod)
-
-
 # Languages
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
